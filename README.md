@@ -1,6 +1,6 @@
 # LaPlataJS
 
-##charlas
+## Propuesta de charlas :rocket:
 
 ### Quiero presentar o proponer una charla 
 
@@ -8,7 +8,7 @@ Las charlas deberían de ser acerca de JavaScript. Cualquier historia interesant
 
 1. Propones una charla creando un [issue](https://github.com/laplatajs/charlas/issues) en este repo. Tambien se puede proponer temas sobre los que te gustaria saber.
 2. Lo revisamos en conjunto. 
-3. Definimos el/los speakers.
+3. Definimos speakers.
 4. Coordinamos una fecha para la futura meetup.
 
 **Si no te animas a dar la charla, estamos para ayudarte!.**
